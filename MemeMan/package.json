@@ -1,0 +1,22 @@
+{
+  "name": "mememanutilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.3.1",
+    "discord.js-menu": "^1.0.3",
+    "log-symbols": "^4.0.0",
+    "ms": "^2.1.2",
+    "node-opus": "^0.3.3",
+    "ytdl-core": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
