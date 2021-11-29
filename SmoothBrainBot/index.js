@@ -1,1 +1,1 @@
-const CustomClient = require("./src/CustomClient"), bot = new CustomClient(); bot.start();
+const CustomClient = require("./src/CustomClient");new CustomClient().start();
